@@ -1,0 +1,187 @@
+2025-04-07 20:00:12,993 - INFO - Rekomendasi request | q='pendakian' | kategori='Gunung' | provinsi='Bali'
+2025-04-07 20:00:13,005 - INFO - Rekomendasi ditemukan: 0 item
+2025-04-07 20:03:54,045 - INFO - Rekomendasi request | q=' ' | kategori='Taman wisata' | provinsi='Riau'
+2025-04-07 20:03:54,062 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:04:04,630 - INFO - Rekomendasi request | q=' ' | kategori='Taman wisata' | provinsi='Riau'
+2025-04-07 20:04:04,638 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:18:47,354 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Riau'
+2025-04-07 20:18:47,357 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:18:58,508 - INFO - Rekomendasi request | q=' ' | kategori='Taman wisata' | provinsi='Riau'
+2025-04-07 20:18:58,517 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:19:06,547 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Riau'
+2025-04-07 20:19:06,554 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:19:11,866 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Riau'
+2025-04-07 20:19:11,877 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:19:12,863 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Riau'
+2025-04-07 20:19:12,869 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:19:30,799 - INFO - Rekomendasi request | q='   ' | kategori='None' | provinsi='Bali'
+2025-04-07 20:19:30,808 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:19:40,550 - INFO - Rekomendasi request | q='   ' | kategori='None' | provinsi='Bali'
+2025-04-07 20:19:40,554 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:21:29,524 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Kalimantan Utara'
+2025-04-07 20:21:29,533 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:21:37,107 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Kalimantan Utara'
+2025-04-07 20:21:37,112 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:22:45,605 - INFO - Rekomendasi request | q='Tugu nasional penjajahan' | kategori='None' | provinsi='None'
+2025-04-07 20:22:45,618 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:22:52,936 - INFO - Rekomendasi request | q='Tugu nasional penjajahan' | kategori='None' | provinsi='None'
+2025-04-07 20:22:52,945 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:30:14,479 - INFO - Rekomendasi request | q='Tugu Penjajahan ' | kategori='None' | provinsi='None'
+2025-04-07 20:30:14,487 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:32:11,856 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Sulawesi Selatan'
+2025-04-07 20:32:11,866 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:34:53,656 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Riau'
+2025-04-07 20:34:53,663 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 20:34:59,792 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Riau'
+2025-04-07 20:34:59,799 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 21:56:09,599 - INFO - Rekomendasi request | q='Taman Wisata pengetahuan' | kategori='None' | provinsi='None'
+2025-04-07 21:56:10,934 - INFO - Query diterjemahkan: 'Taman Wisata pengetahuan' -> 'Knowledge Tourism Park'
+2025-04-07 21:56:10,960 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 21:56:17,834 - INFO - Rekomendasi request | q='Taman Wisata pengetahuan' | kategori='None' | provinsi='None'
+2025-04-07 21:56:18,407 - INFO - Query diterjemahkan: 'Taman Wisata pengetahuan' -> 'Knowledge Tourism Park'
+2025-04-07 21:56:18,417 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 21:57:01,530 - INFO - Rekomendasi request | q='\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' | kategori='None' | provinsi='None'
+2025-04-07 21:57:02,950 - INFO - Query diterjemahkan: '\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' -> 'A beach suitable for surfing'
+2025-04-07 21:57:02,950 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 21:57:15,184 - INFO - Rekomendasi request | q='\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' | kategori='None' | provinsi='None'
+2025-04-07 21:57:16,162 - INFO - Query diterjemahkan: '\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' -> 'A beach suitable for surfing'
+2025-04-07 21:57:16,164 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 21:57:33,481 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Aceh'
+2025-04-07 21:57:34,081 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-07 21:57:34,081 - INFO - Rekomendasi ditemukan: 1 item
+2025-04-07 21:57:42,006 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Aceh'
+2025-04-07 21:57:42,682 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-07 21:57:42,692 - INFO - Rekomendasi ditemukan: 1 item
+2025-04-07 22:00:48,598 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Sumatera Selatan'
+2025-04-07 22:00:49,264 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-07 22:00:49,283 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 22:01:10,552 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Nusa Tenggara Barat'
+2025-04-07 22:01:11,175 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-07 22:01:11,187 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-07 22:03:05,442 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Aceh'
+2025-04-07 22:03:05,963 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-07 22:03:05,978 - INFO - Rekomendasi ditemukan: 1 item
+2025-04-08 20:58:26,277 - INFO - Rekomendasi request | q='gunung' | kategori='None' | provinsi='None'
+2025-04-08 20:58:26,800 - INFO - Query diterjemahkan: 'gunung' -> 'mountain'
+2025-04-08 20:58:26,842 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-08 21:06:36,003 - INFO - Rekomendasi request | q='\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' | kategori='None' | provinsi='None'
+2025-04-08 21:06:36,605 - INFO - Query diterjemahkan: '\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' -> 'A beach suitable for surfing'
+2025-04-08 21:06:36,673 - INFO - Rekomendasi ditemukan: 2212 item
+2025-04-08 21:07:01,939 - INFO - Rekomendasi request | q='\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' | kategori='None' | provinsi='None'
+2025-04-08 21:07:02,355 - INFO - Query diterjemahkan: '\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' -> 'A beach suitable for surfing'
+2025-04-08 21:07:02,376 - INFO - Rekomendasi ditemukan: 2212 item
+2025-04-08 21:09:31,223 - INFO - Rekomendasi request | q='\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' | kategori='None' | provinsi='None'
+2025-04-08 21:09:31,692 - INFO - Query diterjemahkan: '\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' -> 'A beach suitable for surfing'
+2025-04-08 21:09:31,717 - INFO - Rekomendasi ditemukan: 2212 item
+2025-04-08 21:09:50,266 - INFO - Rekomendasi request | q='\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' | kategori='None' | provinsi='None'
+2025-04-08 21:09:50,790 - INFO - Query diterjemahkan: '\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' -> 'A beach suitable for surfing'
+2025-04-08 21:09:50,817 - INFO - Rekomendasi ditemukan: 2212 item
+2025-04-08 21:09:50,980 - INFO - Rekomendasi request | q='\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' | kategori='None' | provinsi='None'
+2025-04-08 21:09:51,371 - INFO - Query diterjemahkan: '\u30b5\u30fc\u30d5\u30a3\u30f3\u306b\u9069\u3057\u305f\u30d3\u30fc\u30c1' -> 'A beach suitable for surfing'
+2025-04-08 21:09:51,389 - INFO - Rekomendasi ditemukan: 2212 item
+2025-04-08 21:10:12,716 - INFO - Rekomendasi request | q=' ' | kategori='Pantai' | provinsi='None'
+2025-04-08 21:10:13,102 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-08 21:10:13,116 - INFO - Rekomendasi ditemukan: 399 item
+2025-04-08 21:10:19,804 - INFO - Rekomendasi request | q=' ' | kategori='Pantai' | provinsi='None'
+2025-04-08 21:10:20,185 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-08 21:10:20,194 - INFO - Rekomendasi ditemukan: 399 item
+2025-04-15 15:07:10,390 - INFO - Rekomendasi request | q='gunung' | kategori='None' | provinsi='None'
+2025-04-15 15:07:11,289 - INFO - Rekomendasi ditemukan: 5 item
+2025-04-15 20:24:58,588 - INFO - Request rekomendasi-user: {'gender': 'male', 'age': 21, 'is_new_user': True, 'interest': ['Mountain', 'Beach']}
+2025-04-15 20:24:58,606 - ERROR - Error di endpoint rekomendasi-user: could not convert string to float: 'male'
+2025-04-15 20:25:00,208 - INFO - Request rekomendasi-user: {'gender': 'male', 'age': 21, 'is_new_user': True, 'interest': ['Mountain', 'Beach']}
+2025-04-15 20:25:00,221 - ERROR - Error di endpoint rekomendasi-user: could not convert string to float: 'male'
+2025-04-15 20:25:09,759 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 21, 'is_new_user': True, 'interest': ['Mountain', 'Beach']}
+2025-04-15 20:25:09,806 - ERROR - Error di endpoint rekomendasi-user: "['Kategori'] not in index"
+2025-04-15 20:26:22,978 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 21, 'is_new_user': True, 'interest': ['Museum', 'Beach']}
+2025-04-15 20:26:23,008 - ERROR - Error di endpoint rekomendasi-user: "['Kategori'] not in index"
+2025-04-15 20:26:31,921 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 21, 'is_new_user': True, 'interest': ['Museum', 'Pantai']}
+2025-04-15 20:26:31,964 - ERROR - Error di endpoint rekomendasi-user: "['Kategori'] not in index"
+2025-04-15 20:26:35,477 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 21, 'is_new_user': True, 'interest': ['Museum', 'Pantai']}
+2025-04-15 20:26:35,512 - ERROR - Error di endpoint rekomendasi-user: "['Kategori'] not in index"
+2025-04-15 20:40:05,888 - INFO - Request rekomendasi-user: {'gender': 'male', 'age': 21, 'is_new_user': True, 'interest': ['Mountain', 'Beach']}
+2025-04-15 20:40:05,904 - ERROR - Error di endpoint rekomendasi-user: could not convert string to float: 'male'
+2025-04-15 20:40:14,205 - INFO - Request rekomendasi-user: {'gender': 0, 'age': 21, 'is_new_user': True, 'interest': ['Mountain', 'Beach']}
+2025-04-15 20:40:14,234 - ERROR - Error di endpoint rekomendasi-user: "['Kategori'] not in index"
+2025-04-15 20:46:40,622 - INFO - Request rekomendasi-user: {'gender': 0, 'age': 25, 'is_new_user': False, 'interest': ['Beach', 'Mountain', 'Museum'], 'searchs': [{'count': 12, 'name': 'Pantai Suak Ribee'}, {'count': 5, 'name': 'Taman Nasional Gunung Leuser'}]}
+2025-04-15 20:46:40,622 - ERROR - Error di endpoint rekomendasi-user: 'Kategori'
+2025-04-15 20:46:43,998 - INFO - Request rekomendasi-user: {'gender': 0, 'age': 25, 'is_new_user': False, 'interest': ['Beach', 'Mountain', 'Museum'], 'searchs': [{'count': 12, 'name': 'Pantai Suak Ribee'}, {'count': 5, 'name': 'Taman Nasional Gunung Leuser'}]}
+2025-04-15 20:46:43,998 - ERROR - Error di endpoint rekomendasi-user: 'Kategori'
+2025-04-15 20:48:58,531 - INFO - Request rekomendasi-user: {'gender': 0, 'age': 25, 'is_new_user': False, 'interest': ['Beach', 'Mountain', 'Museum'], 'searchs': [{'count': 12, 'name': 'Pantai Suak Ribee'}, {'count': 5, 'name': 'Taman Nasional Gunung Leuser'}]}
+2025-04-15 20:52:09,293 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 24, 'is_new_user': True, 'interest': ['Beach', 'Mountain', 'Forest']}
+2025-04-15 20:55:08,306 - INFO - Request rekomendasi-user: {'gender': 0, 'age': 22, 'is_new_user': True, 'interest': ['Mountain', 'Waterfall', 'Forest']}
+2025-04-15 20:58:31,090 - INFO - Request rekomendasi-user: {'gender': 0, 'age': 22, 'is_new_user': True, 'interest': ['Mountain', 'Waterfall', 'Forest']}
+2025-04-15 21:04:31,559 - INFO - Request rekomendasi-user: {'gender': 0, 'age': 22, 'is_new_user': True, 'interest': ['Mountain', 'Waterfall', 'Forest']}
+2025-04-15 21:04:31,628 - ERROR - Error di endpoint rekomendasi-user: "['Provinsi'] not in index"
+2025-04-15 21:08:10,356 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 24, 'is_new_user': True, 'interest': ['Beach', 'Mountain', 'Forest']}
+2025-04-15 21:18:34,126 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 24, 'is_new_user': True, 'interest': ['Beach', 'Mountain', 'Forest']}
+2025-04-15 21:21:07,060 - INFO - Rekomendasi request | q=' ' | kategori='Pantai' | provinsi='Bali'
+2025-04-15 21:21:08,215 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-15 21:21:08,228 - INFO - Rekomendasi ditemukan: 16 item
+2025-04-15 21:22:59,689 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Waterfall'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Air Terjun Tumpak Sewu'}], 'top_n': 5}
+2025-04-15 21:22:59,721 - ERROR - Error di endpoint rekomendasi-user: "['Rating', 'Foto', 'Provinsi', 'Alamat', 'Penjelasan_English', 'LinkGmaps'] not in index"
+2025-04-15 21:23:10,584 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Waterfall'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Air Terjun Tumpak Sewu'}]}
+2025-04-15 21:23:10,611 - ERROR - Error di endpoint rekomendasi-user: "['Rating', 'Foto', 'Provinsi', 'Alamat', 'Penjelasan_English', 'LinkGmaps'] not in index"
+2025-04-15 21:24:04,086 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 24, 'is_new_user': True, 'interest': ['Beach', 'Mountain', 'Forest']}
+2025-04-15 21:34:49,454 - INFO - Rekomendasi request | q='None' | kategori='Gunung' | provinsi='None'
+2025-04-15 21:34:50,029 - WARNING - Gagal menerjemahkan query 'None', error: the JSON object must be str, bytes or bytearray, not NoneType
+2025-04-15 21:37:35,560 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Sumatera Barat'
+2025-04-15 21:37:36,273 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-15 21:37:36,294 - INFO - Rekomendasi ditemukan: 75 item
+2025-04-15 21:38:52,464 - INFO - Rekomendasi request | q=' Tugu Bersejarah Penjajahan' | kategori='None' | provinsi='None'
+2025-04-15 21:38:53,795 - INFO - Rekomendasi ditemukan: 2212 item
+2025-04-15 21:55:12,618 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Beach'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Pantai Kuta'}]}
+2025-04-15 21:55:12,652 - ERROR - Error di endpoint rekomendasi-user: "['Rating', 'Foto', 'Provinsi', 'Alamat', 'Penjelasan_English', 'LinkGmaps'] not in index"
+2025-04-15 21:58:07,712 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Beach'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Pantai Kuta'}], 'top_n': 10}
+2025-04-15 21:58:07,720 - ERROR - Error di endpoint rekomendasi-user: The column label 'NameLocation' is not unique.
+2025-04-15 21:58:27,335 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Beach'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Pantai Kuta'}]}
+2025-04-15 21:58:27,335 - ERROR - Error di endpoint rekomendasi-user: The column label 'NameLocation' is not unique.
+2025-04-15 21:59:52,649 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Beach'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Pantai Kuta'}]}
+2025-04-15 21:59:52,672 - ERROR - Error di endpoint rekomendasi-user: "['Rating', 'Foto', 'Provinsi', 'Alamat', 'Penjelasan_English', 'LinkGmaps'] not in index"
+2025-04-15 22:03:58,524 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Beach'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Pantai Kuta'}]}
+2025-04-15 22:03:58,549 - ERROR - Error di endpoint rekomendasi-user: "['Rating', 'Foto', 'Provinsi', 'Alamat', 'Penjelasan_English', 'LinkGmaps'] not in index"
+2025-04-15 22:12:10,167 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 24, 'is_new_user': True, 'interest': ['Beach', 'Mountain', 'Forest']}
+2025-04-15 22:12:44,849 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Beach'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Pantai Kuta'}]}
+2025-04-15 22:12:44,865 - ERROR - Error di endpoint rekomendasi-user: The column label 'NameLocation' is not unique.
+2025-04-15 22:12:49,526 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Beach'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Pantai Kuta'}]}
+2025-04-15 22:12:49,532 - ERROR - Error di endpoint rekomendasi-user: The column label 'NameLocation' is not unique.
+2025-04-15 22:14:02,426 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Beach'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Pantai Kuta'}], 'top_n': 10}
+2025-04-15 22:14:18,274 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Beach'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Pantai Kuta'}]}
+2025-04-15 22:14:23,913 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Beach'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Pantai Kuta'}]}
+2025-04-15 22:19:45,703 - INFO - Request rekomendasi-user: {'is_new_user': False, 'gender': 1, 'age': 25, 'interest': ['Mountain', 'Beach'], 'searchs': [{'name': 'Gunung Bromo'}, {'name': 'Pantai Kuta'}]}
+2025-04-15 22:20:07,372 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 24, 'is_new_user': True, 'interest': ['Beach', 'Mountain', 'Forest']}
+2025-04-15 22:21:44,780 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 24, 'is_new_user': True, 'interest': ['Beach', 'Mountain', 'Forest']}
+2025-04-16 08:21:12,072 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Aceh'
+2025-04-16 08:21:12,754 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-16 08:21:12,777 - INFO - Rekomendasi ditemukan: 1 item
+2025-04-16 08:21:27,400 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Bali'
+2025-04-16 08:21:27,803 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-16 08:21:27,807 - INFO - Rekomendasi ditemukan: 89 item
+2025-04-16 08:44:46,031 - INFO - Rekomendasi request | q=' Pantai dengan pasir putih' | kategori='None' | provinsi='None'
+2025-04-16 08:44:46,997 - INFO - Rekomendasi ditemukan: 2212 item
+2025-04-16 08:45:13,566 - INFO - Rekomendasi request | q=' ' | kategori='Museum/Sejarah' | provinsi='None'
+2025-04-16 08:45:14,430 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-16 08:45:14,447 - INFO - Rekomendasi ditemukan: 160 item
+2025-04-16 08:45:26,282 - INFO - Rekomendasi request | q=' ' | kategori='Museum' | provinsi='None'
+2025-04-16 08:45:26,726 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-16 08:45:26,731 - INFO - Rekomendasi ditemukan: 160 item
+2025-04-16 08:45:39,637 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Aceh'
+2025-04-16 08:45:40,039 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-16 08:45:40,046 - INFO - Rekomendasi ditemukan: 2212 item
+2025-04-16 08:46:57,085 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 24, 'is_new_user': True, 'interest': ['Beach', 'Mountain', 'Forest']}
+2025-04-16 08:47:59,880 - INFO - Request rekomendasi-user: {'gender': 0, 'age': 25, 'is_new_user': False, 'interest': ['Beach', 'Mountain', 'Museum'], 'searchs': [{'count': 12, 'name': 'Pantai Suak Ribee'}, {'count': 5, 'name': 'Taman Nasional Gunung Leuser'}]}
+2025-04-16 14:44:38,798 - INFO - Rekomendasi request | q=' ' | kategori='Pantai' | provinsi='None'
+2025-04-16 14:44:39,643 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-16 14:44:39,658 - INFO - Rekomendasi ditemukan: 399 item
+2025-04-16 14:51:36,639 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 24, 'is_new_user': True, 'interest': ['Beach', 'Mountain', 'Forest']}
+2025-04-16 14:54:36,323 - INFO - Request rekomendasi-user: {'gender': 1, 'age': 24, 'is_new_user': True, 'interest': ['Beach', 'Mountain', 'Forest']}
+2025-04-16 14:55:07,082 - INFO - Request rekomendasi-user: {'gender': 0, 'age': 25, 'is_new_user': False, 'interest': ['Beach', 'Mountain', 'Museum'], 'searchs': [{'count': 12, 'name': 'Pantai Suak Ribee'}, {'count': 5, 'name': 'Taman Nasional Gunung Leuser'}]}
+2025-04-16 14:55:44,026 - INFO - Rekomendasi request | q=' Tugu Bersejarah penjajahan' | kategori='None' | provinsi='None'
+2025-04-16 14:56:11,607 - INFO - Rekomendasi request | q=' Tugu Bersejarah penjajahan' | kategori='None' | provinsi='None'
+2025-04-16 14:56:41,093 - INFO - Rekomendasi request | q=' ' | kategori='Beach' | provinsi='None'
+2025-04-16 14:56:42,171 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-16 14:57:27,948 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Aceh'
+2025-04-16 14:57:28,354 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-16 14:57:47,091 - INFO - Rekomendasi request | q=' ' | kategori='None' | provinsi='Papua'
+2025-04-16 14:57:47,504 - WARNING - Gagal menerjemahkan query ' ', error: sequence item 0: expected str instance, NoneType found
+2025-04-16 15:02:14,120 - INFO - Rekomendasi request | q=' Air terjun yang indah ' | kategori='None' | provinsi='None'
